@@ -164,7 +164,7 @@ font-family:'Lato Light', sans-serif;
      font-size: 18px;
     margin-left: 88px;
     margin-top:5px;
-word-spacing:-3px;
+word-spacing:-1px;
 }
 .phone p{
     font-size: 11px;
@@ -185,7 +185,7 @@ word-spacing:-3px;
      font-size: 18px;
     margin-left:140px;
     margin-top:-217px; 
-word-spacing:-3px;
+word-spacing:-1px;
 }
 .bulb p{
     font-size: 11px;
@@ -206,7 +206,7 @@ word-spacing:-3px;
     font-size: 18px;
     margin-left:140px;
     margin-top:230px;
-word-spacing:-3px;
+word-spacing:-1px;
 }
 .dialog p{
  font-size: 11px;
@@ -223,7 +223,7 @@ word-spacing:-3px;
     font-size: 18px;
     margin-left:761px;
     margin-top:-216px;
-word-spacing:-3px;
+word-spacing:-1px;
     }
 .heart p{
     font-size: 11px;
@@ -240,7 +240,7 @@ word-spacing:-3px;
      font-size: 18px;
      margin-left:761px;
     margin-top:29px;
-word-spacing:-3px;
+word-spacing:-1px;
     }   
 .star p{
    font-size: 11.3px;
