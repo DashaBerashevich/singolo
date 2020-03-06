@@ -6,7 +6,9 @@
 body{
     margin:0;
 }
-
+a{
+color:white;
+}
 .red-box{
     margin:0 auto;
     width: 1020px;
